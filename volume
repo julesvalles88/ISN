@@ -1,0 +1,6 @@
+l=int(input("entrer une longueur : "))
+p=int(input("entrer une profondeur : "))
+h=int(input("entrer une hauteur : "))
+v=l*h*p
+print ("le volume est : ")
+print (v)
